@@ -39,7 +39,7 @@ To get started using FamilyBond in your local environment, follow these steps:
 Create a virtual environment and install the dependencies:
   ```python
   python -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
+  . .venv/bin/activate  # On Windows: .venv\Scripts\activate
   pip install -r requirements.txt
   ```
 
